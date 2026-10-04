@@ -3,7 +3,7 @@
 
 ---
 <div align="center">
-  <img src="./md/img029.jpg" alt="Logo SIRL" width="60" height="60" />
+  <img src="./img029.jpg" alt="Logo SIRL" width="300px" height="300px" />
 </div>
 
 ### <div style="color:blue"> 👤 Datos Personales y de Contacto </div>
